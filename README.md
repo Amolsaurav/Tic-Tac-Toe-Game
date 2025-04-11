@@ -34,10 +34,10 @@ A clean and animated **Tic Tac Toe** game built using **HTML**, **CSS**, and **J
 ---
 
 ## 📸 Screenshot
-![Game Screenshort](Assests\Initial-phase.png)
-![Game Screenshort](Assests\Player-X-wins.png)
-![Game Screenshort](Assests\Player-O-wins.png)
-![Game Screenshort](Assests\Game-Draw.png)
+![Game Screenshort](/Assests/Game-Draw.png)
+![Game Screenshort](/Assests/Player-X-wins.png)
+![Game Screenshort](/Assests/Player-O-wins.png)
+![Game Screenshort](/Assests/Game-Draw.png)
 
 ## 🛠️ Tech Stack
 
@@ -71,7 +71,7 @@ To run the project locally:
 ## 📄 License
 - This project is open-source and available under the [MIT License] (https://opensource.org/licenses/MIT)
 
-💡 Future Improvements
+## 💡 Future Improvements
 - Add laser line animation on winning boxes ✨
 
 - Add score tracking
